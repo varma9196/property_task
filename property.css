@@ -1,0 +1,24 @@
+header{
+    width:100%;
+}
+#menu{
+    height: 10px;
+}
+#submenu{
+    padding-left: 10%;
+}
+.home{
+    padding: auto;
+}
+article{
+    width: 50%;
+    padding-left: 10%;
+    float: left;
+}
+.img-holder{
+    width: 40%;
+    float: left;
+}
+footer{
+    padding-left: 10%;
+}
